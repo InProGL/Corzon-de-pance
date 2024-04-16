@@ -1,0 +1,7 @@
+[BEGIN FB INPUTS]
+I1=micro850.micro850.prog1/scaler_1.input,0x484,REAL
+I2=micro850.micro850.prog1/scaler_1.inputmin,0x1A80,REAL
+I3=micro850.micro850.prog1/scaler_1.inputmax,0x1A84,REAL
+I4=micro850.micro850.prog1/scaler_1.outputmin,0x1A88,REAL
+I5=micro850.micro850.prog1/scaler_1.outputmax,0x1A80,REAL
+[END]
